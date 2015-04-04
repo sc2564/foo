@@ -1,3 +1,4 @@
+// This is the .h file corresponding to the malloc.c
 #ifndef MALLOC_H
 #define MALLOC_H
 
