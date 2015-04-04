@@ -1,3 +1,4 @@
+// This is the MP2 of the OS class from Cornell CS4410, have fun and cheers!
 #include <errno.h>
 #include <limits.h>
 #include <string.h>
